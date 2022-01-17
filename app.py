@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Test pull request!"
+    return "Test pull request take 2!"
 
 
 if __name__ == "__main__":
